@@ -1,7 +1,13 @@
 # BA4-Analyzing-Liqour-Sales-Trends-in-Iowa
+BA843 Subject Of Questrom School Of Business, Boston University, Done under Prof. Mohammad Soltanieh Ha
 
+Contributors to this project as teams members are listed here:
 
-
+1. Hengyuan Cao
+2. Anmol Srivastava
+3. Arjun Aggarwal
+4. Syeda Ghazal Qadri
+5. Mugdha Khairnar
 
 
 The 'Iowa Liquor Retail Sales' dataset, sourced by the Iowa Department of Commerce and extracted from BigQuery, provides detailed insights on the state's liquor sales. In this notebook, we explore the dataset with the aim of providing insights that are useful for both consumers and retailers. Our goal is to help retailers address key supply chain concerns such as incorrect forecasting and recognition of demand constraints.
